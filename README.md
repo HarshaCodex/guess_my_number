@@ -78,10 +78,5 @@ Feel free to modify the following elements to personalize the game:
 
 <img width="1728" alt="Screenshot 2025-02-06 at 9 40 43 PM" src="https://github.com/user-attachments/assets/935bde11-f912-4f56-a07d-007b70838dfe" />
 
-
-## License
-
-This project is open-source and available under the MIT License. Feel free to use, modify, and share it as needed.
-
 Enjoy the game!
 
